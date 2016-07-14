@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  BDMap
+//
+//  Created by nacker on 16/7/13.
+//  Copyright © 2016年 帶頭二哥 QQ:648959. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <BaiduMapAPI_Base/BMKBaseComponent.h>//引入base相关所有的头文件
+#import <BaiduMapAPI_Map/BMKMapComponent.h>//引入地图功能所有的头文件
+
+#endif /* PrefixHeader_pch */
